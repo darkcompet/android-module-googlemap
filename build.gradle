@@ -4,6 +4,8 @@ plugins {
 }
 
 android {
+	namespace 'tool.compet.googlemap'
+
 	compileSdk 31
 
 	defaultConfig {
