@@ -44,5 +44,5 @@ dependencies {
 	api project(path: ':android-module-core')
 
 	// Google map
-	api 'com.google.android.gms:play-services-maps:18.0.2'
+	api 'com.google.android.gms:play-services-maps:18.1.0'
 }
